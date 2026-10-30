@@ -1,0 +1,21 @@
+role,skills
+Data Scientist,python;sql;machine learning;statistics;data analysis;pandas;scikit-learn;data visualization
+Data Analyst,sql;excel;data analysis;data visualization;statistics;power bi;python;tableau
+Data Engineer,python;sql;spark;airflow;etl;aws;data modeling;kafka;docker
+Machine Learning Engineer,python;machine learning;deep learning;tensorflow;pytorch;docker;mlops;scikit-learn;aws
+AI Research Engineer,python;deep learning;pytorch;mathematics;neural networks;machine learning;nlp;tensorflow
+DevOps Engineer,aws;docker;kubernetes;ci/cd;git;linux;terraform;automation;python;jenkins
+Cloud Architect,aws;azure;cloud;networking;terraform;security;kubernetes;automation;linux
+Cloud Engineer,aws;azure;cloud;linux;docker;terraform;python;automation;networking
+Site Reliability Engineer,linux;kubernetes;python;monitoring;automation;ci/cd;aws;go;networking
+Backend Developer,java;python;sql;apis;git;docker;node.js;databases;data structures
+Frontend Developer,html;css;javascript;react;git;typescript;ui design;apis
+Full Stack Developer,html;css;javascript;react;node.js;sql;apis;git;docker;databases
+Mobile App Developer,kotlin;swift;flutter;java;apis;git;ui design;firebase
+Cybersecurity Analyst,security;networking;linux;python;siem;penetration testing;cryptography;firewalls
+Network Engineer,networking;cisco;routing;switching;firewalls;linux;security;tcp/ip;automation
+Systems Administrator,linux;windows server;networking;bash;automation;virtualization;monitoring;security
+Database Administrator,sql;databases;postgresql;mysql;backup;performance tuning;linux;security
+QA Automation Engineer,python;selenium;java;ci/cd;git;testing;apis;automation
+Game Developer,c++;c#;unity;unreal engine;mathematics;data structures;git;graphics
+Embedded Systems Engineer,c;c++;microcontrollers;iot;linux;rtos;electronics;networking;data structures
