@@ -98,4 +98,4 @@ Thanks to **DecodeLabs** for a curriculum that moves from logic → rules → le
 
 ---
 
-**Emmanuel Nkaka** · DecodeLabs AI and machine learning Programme
+**Emmanuel Nkaka** · AI and machine learning Programme
