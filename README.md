@@ -1,4 +1,4 @@
-# My DecodeLabs AI & Machine Learning Journey
+# My AI & Machine Learning Journey
 
 > **Author:** Emmanuel Nkaka
 > **Programme:** DecodeLabs · Artificial Intelligence
